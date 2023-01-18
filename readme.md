@@ -1,3 +1,3 @@
-# Challenge day 1 (bien hecho)
+# Challenge day 2
 
-Challenge semana 1 día 1.
+Web trabajando en repositorio compartido.
